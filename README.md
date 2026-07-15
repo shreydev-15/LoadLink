@@ -2,7 +2,9 @@
 
 > **⚠️ Project Status:** **Currently in Development**
 >
-> The frontend for **LoadLink** is actively being developed, while the backend and matching engine are currently under construction. Features and functionality are subject to change as the project evolves.
+> The frontend for **LoadLink** is actively being developed, while the backend and matching engine are currently under construction. Features and functionality are subject to change as the project evolves. You may access the frontend ready deployment
+load-link-kappa.vercel.app
+
 
 ---
 
